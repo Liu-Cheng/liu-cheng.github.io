@@ -1,0 +1,362 @@
+
+<!DOCTYPE html 
+     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"> 
+
+
+<head bgcolor="gray">
+
+<script type="text/javascript" src="jquery.min.js"></script>
+
+<script type="text/javascript">
+  var g_pressed = false;
+  var all_elements = ["general", "research", "publication", "experience", "contact"];
+
+  function topArrowPressed(evt) {
+    g_pressed = false;
+    scrollBy(0,-50)
+  }
+  function downArrowPressed(evt) {
+    g_pressed = false;
+    scrollBy(0,50)
+  }
+  function leftArrowPressed(evt) {
+    g_pressed = false;
+    scrollBy(-20,0);
+  }
+  function rightArrowPressed() {
+    g_pressed = false;
+    scrollBy(20,0)
+  }
+  function gotoTop() {
+    g_pressed = false;
+    scroll(0,0); 
+  }
+  function gotoBottom() {
+    g_pressed = false;
+    scroll(0,10000); 
+  }
+
+  document.onkeydown = function(evt) {
+    evt = evt || window.event;
+    switch (evt.keyCode) {
+      case 74:
+      downArrowPressed(evt);
+      break;
+
+      case 75:
+      topArrowPressed(evt);
+      break;
+
+      case 72:
+      leftArrowPressed(evt);
+      break;
+
+      case 76:
+      rightArrowPressed(evt);
+      break;
+
+      case 71:
+      if (g_pressed)
+        gotoTop();
+      else
+        g_pressed = true;
+      break;
+
+      default:
+      g_pressed = false;
+      break;
+      }
+  };
+
+  
+
+</script>
+
+
+
+<title>Cheng Liu's Homepage</title>
+<style>
+  div.ex
+  {
+    width: 800px;
+    padding: 40px 40px 40px 40px;
+    border: 3px solid #FF6200;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+  }
+
+  div.nav ul
+  {
+    width: 100%;
+    margin-top: 0px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 60px;
+    padding: 5px;
+    list-style: none;
+    border-radius: 8px;
+  }
+  div.nav ul li
+  {
+    width: 16.5%;
+    float: left;
+    display: inline;
+  }
+  div.nav ul li a
+  {
+    text-align: center;
+    font-family:Arial;
+    text-shadow: 3px 2px 3px #333333;
+    padding: 8px 0;
+    display: block;
+    width: 100%;
+    color: #fff;
+    background: #646464; /* Old browsers */
+    background: -moz-linear-gradient(top, #2E2E2E 0%, #888888 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#2E2E2E), color-stop(100%,#888888)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, #2E2E2E0%,#888888 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #2E2E2E 0%,#888888 100%); /* Opera 11.10+ */
+    background: linear-gradient(to bottom, #2E2E2E 0%,#888888 100%); /* W3C standard, IE10+ */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#2E2E2E', endColorstr='#888888',GradientType=0 ); /* IE6-9 */
+  }
+
+  div.post
+  {
+    max-width: 800px;
+  }
+  div.post h3
+  {
+    margin: 5px 0px 5px 0px;
+  }
+
+  div.limit
+  {
+    max-width: 710px;
+  }
+  div.limit h3
+  {
+    margin: 5px 0px 5px 0px;
+  }
+
+  a
+  {
+    text-decoration:none;
+  }
+  a:visited
+  {
+    text-decoration:none;
+    color: #0030DF
+  }
+
+  p.post-footer
+  {
+    font-family:Arial;
+    font-size:10px;
+    margin: 2px 2px 5px 20px;
+  }
+</style>
+</head>
+
+
+<body bgcolor="#2E2E2E">
+<a name="top"></a>
+<div class="ex">
+<font color="2E2E2E"><h1 align="left">Cheng Liu</h1></font>
+<br>
+<br>
+
+<div id="navbar" class="nav"><span><ul>
+<li><a href="#general"><span><b>General</b></font></span></a></li>
+<li><a href="#research"><span><b>Research</b></span></a></li>
+<li><a href="#publication"><span><b>Publication</b></span></a></li>
+<li><a href="#experience"><span><b>Experience</b></span></a></li>
+<li><a href="#service"><span><b>Service</b></span></a></li>
+<li><a href="#contact"><span><b>Contact</b></span></a></li>
+</ul></span></div>
+
+
+<div id="general" class="post"><a name="general"></a>
+<img src="profile.jpeg" style="float:right" width="185" height="185" hspace="20">
+<font color="FF4900"><h2 class="post-title">&nbsp;&nbsp;General</h2></font>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am an associate professor in 
+<a href="https://lab.things.ac.cn"> ThingsLAB</a> in
+Institute of Computing Technology, Chinese Academy of Sciences. 
+I got my Ph.D degree in Department of Electrical and 
+Electronic Engineering at The University of Hong Kong in 2016,
+advised by <a href="http://www.eee.hku.hk/~hso">Prof. Hayden Kwok-Hay So</a>, 
+and <a href="http://www.eee.hku.hk/~nwong">Prof. Ngai Wong</a>. Then I 
+worked as a research fellow in Xtra group led by <a href="https://www.comp.nus.edu.sg/~hebs/"> 
+Prof. Bingsheng He </a> in National University of Singapore. 
+<br><br><br>
+
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;Education</h3>
+<ul>
+  <li>Ph.D. in Computer Engineering, The University of Hong Kong, 2011-2016</li>
+  <li>M.Eng. in Electronic Engineering, Harbin Institute of Technology, 2007-2009</li>
+  <li>B.Eng. in Electronic Engineering, Harbin Institute of Technology, 2003-2007</li><br>
+</ul>
+
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;Projects</h3>
+<ul>
+  <li>Customized Energy-efficient Graph Processing Acceleration on FPGAs, supported by China Young Scientists Fund of NSF, 2020-2022</li>
+  <li>Large-Scale Graph Processing on Heterogeneous CPU-FPGA Systems, supported by Intel Harp (Xeon-FPGA), 2016-2018</li>
+  <li>DeepBurning 2.0: An Automatic End-to-end Neural Network Processor Customization on FPGAs, 2018-2020</li>
+  <li>QuickDough: Soft-CGRA Overlay for Rapid FPGA Acceleration, 2011-2016</li><br>
+</ul>
+
+</div>
+<p class="post-footer"><a href="#top">BACK TO TOP </a></p>
+<hr>
+
+
+<div id="research" class="post"><a name="research"></a>
+<font color="FF4900"><h2 class="post-title">&nbsp;&nbsp;Research Interest</h2></font>
+<ul>
+  <li>FPGA based reconfigurable computing</li>
+  <li>Graph processing acceleration</li>
+  <li>Machine learning acceleration</li>
+  <li>Near storage computing</li>
+  <li>Fault-tolerant computing</li><br>
+</ul>
+</div>
+<p class="post-footer"><a href="#top">BACK TO TOP </a></p>
+<hr>
+
+<div id="publication" class="limit"><a name="publication"></a>
+<font color="FF4900"><h2 class="post-title">&nbsp;&nbsp;Publication</h2></font>
+<ul>
+<ul>
+  <li>Xiandong Zhao, Ying Wang, <b>Cheng Liu</b>, Cong Shi, Lei Zhang, <i>BitPruner: Network Pruning for Bit-Serial Accelerators</i>, In IEEE/ACM Proceedings of Design, Automation Conference, 2020.(to appear)</li><br>
+
+  <li>Dawen Xu, Cheng Chu, <b>Cheng Liu*</b>, Ying Wang, Xianzhong Zhou, Lei Zhang, Huawei Li, Huaguo Liang, <i>Multi-task Scheduling for PIM-based Heterogeneous Computing System</i>, In IEEE GLVLSI, 2020.(to appear)</li><br>
+
+  <li> Zhao, Xiandong, Ying Wang, Xuyi Cai, <b>Cheng Liu</b>, Lei Zhang, <i>Linear Symmetric Quantization of Neural Networks for Low-precision Integer Hardware</i>, In International Conference on Learning Representations(ICLR), 2020 (to appear)</li><br>
+
+  <li> Xu, Dawen, Xinke Chu, <b>Cheng Liu*</b>, Ying Wang, Huawei Li, Lei Zhang, <i>CNT-Cache: an Energy-Efficient Carbon Nanotube Cache with Adaptive Encoding</i>, IEEE/ACM Proceedings of Design, Automation and Test in Europe conference (DATE), 2020 (to appear)</li><br>
+
+  <li> Chen, Weiwei, Ying Wang, Shuang Yang, Lei Zhang, <b>Cheng Liu</b>, <i>You Only Search Once: A Fast Automation Framework for Single-Stage DNN/Accelerator Co-design</i>, IEEE/ACM Proceedings of Design, Automation and Test in Europe conference (DATE), 2020 (to appear)</li><br>
+
+  <li> Chen, Weiwei, Ying Wang, Shuang Yang, Lei Zhang, <b>Cheng Liu</b>, <i>Towards Best-effort Approximation: Applying NAS to General-purpose Approximate Computing</i>, IEEE/ACM Proceedings of Design, Automation and Test in Europe conference (DATE), 2020 (to appear)</li><br>
+
+  <li><b>Liu, Cheng</b>, Xinyu Chen, Bingsheng He, Ying Wang, Xiaofei Liao, Lei Zhang, <i>OBFS: OpenCL Based BFS Optimization on Software Programmable FPGAs</i>, In 2019 International Conference on Field Programmable Technology (FPT), Dec 11-13, 2019</li><br>
+
+	<li>Liang, Shengwen, Ying Wang, <b>Cheng Liu</b>, Huawei Li and Xiaowei Li, <i>InS-DLA: An In-SSD Deep Learning Accelerator for Near-Data Processing</i>, The International Conference on Field-Programmable Logic and Applications (FPL), Sep 9-11, 2019 </li><br>
+
+<li>Xu, Dawen, Kouzi Xing, <b>Cheng Liu*</b>, Ying Wang, Yulin Dai, Long Cheng, Huawei Li, Lei Zhang, <i>Resilient Neural Network Training for Accelerators with Computing Errors</i>, The 30th IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP), July 15-17, 2019 </li><br>
+
+<li>Xing, Kouzi, Dawen Xu, <b>Cheng Liu*</b>, Ying Wang, Huawei Li and Xiaowei Li, <i>Squeezing the Last MHz for CNN Acceleration on FPGAs</i>, The 3rd International Test Conference in Asia, 2019</li><br>
+
+<li>Gui, Chuangyi, Long Zheng, Bingsheng He, <b>Cheng Liu</b>, Xinyu Chen, Xiaofei Liao, and Hai Jin. <i>A Survey on Graph Processing Accelerators: Challenges and Opportunities</i>. Journal of Computer Science and Technology (JCST), Vol.34, no. 2 (2019): 339-371.</li><br>
+
+<li>Xu, Dawen, Li Li, Ying Wang, <b>Cheng Liu</b>, and Huawei Li. <i>Exploring emerging CNFET for efficient last level cache design</i>. In Proceedings of the 24th Asia and South Pacific Design Automation Conference (ASP-DAC). ACM, New York, NY, USA, 426-431, 2019 </li><br>
+
+<li>Xu, Dawen, Kaijie Tu, Ying Wang, <b>Cheng Liu</b>, Bingsheng He, and Huawei Li. <i>FCN-engine: accelerating deconvolutional layers in classic CNN processors</i>. In Proceedings of the International Conference on Computer-Aided Design (ICCAD), p.22. ACM, 2018. </li><br>
+
+<li>Hayden Kwok-Hay So and <b>Cheng Liu</b>. <i>FPGA overlays</i>. In FPGAs for Software Programmers, pp. 285-305. Springer, Cham, 2016. </li><br>
+
+<li><b>Liu, Cheng</b>, Ho-Cheung Ng, and Hayden Kwok-Hay So. <i>QuickDough: a rapid FPGA loop accelerator design framework using soft CGRA overlay</i>. In 2015 International Conference on Field Programmable Technology (FPT), pp. 56-63. IEEE, 2015. </li><br>
+
+<li><b>Liu, Cheng</b>, Ho-Cheung Ng, Hayden Kwok-Hay So, <i>Automatic nested loop acceleration on fpgas using soft CGRA overlay</i>, The Second International workshop of FPGAs for Software Programmers (FSP), 2015 </li><br>
+
+<li>Wang, Ying, Yin-He Han, Lei Zhang, Bin-Zhang Fu, <b>Cheng Liu</b>, Hua-Wei Li, and Xiaowei Li. <i>Economizing TSV resources in 3-D network-on-chip design</i>. IEEE Transactions on Very Large Scale Integration (VLSI) Systems, no. 3(2015):493-506.</li><br>
+
+<li> Han, Yin-He, <b>Cheng Liu</b>, Hang Lu, Wen-Bo Li, Lei Zhang, and Xiao-Wei Li. <i>RevivePath: Resilient network-on-chip design through data path salvaging of router</i>. Journal of Computer Science and Technology (JCST), Vol. 28, no. 6 (2013): 1045-1053. </li><br>
+
+<li><b>Liu, Cheng</b>, Lei Zhang, Yinhe Han, and Xiaowei Li. <i>Vertical interconnects squeezing in symmetric 3D mesh network-on-chip</i>. In Proceedings of the 16th Asia and South Pacific Design Automation Conference (ASP-DAC), pp. 357-362. IEEE Press, 2011. </li><br>
+
+<li><b>Liu, Cheng</b>, Lei Zhang, Yinhe Han, and Xiaowei Li. <i>A resilient on-chip router design through data path salvaging</i>. In Proceedings of the 16th Asia and South Pacific Design Automation Conference (ASP-DAC), pp.437-442. 2011. </li><br>
+
+</ul>
+<h3 class="post-title">Posters</h3>
+<ul>
+  <li> <b>Liu, Cheng</b>, and Hayden Kwok-Hay So. <i>Automatic soft cgra overlay customization for high-productivity nested loop acceleration on fpgas</i>. In 2015 IEEE 23rd Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM), pp. 101-101. IEEE, 2015. </li><br>
+
+<li>Ng, Ho-Cheung, <b>Cheng Liu</b>, and Hayden Kwok-Hay So. <i>A soft processor overlay with tightly-coupled FPGA accelerator</i>. The 2nd International Workshop on Overlay Architectures for FPGAs (OLAF), 2016. </li><br>
+
+<li><b>Liu, Cheng</b>, Hayden Kwok-Hay So, <i>QuickDough: A Rapid FPGA Accelerator Generation Framework using Soft Coarse-Grained Reconfigurable Array Overlay</i>, The 1st International Workshop on Overlay Architectures for FPGAs (OLAF), 2013. </li><br>
+
+<li><b>Liu, Cheng</b>, Colin Lin Yu, and Hayden Kwok-Hay So. <i>A soft coarse-grained reconfigurable array based high-level synthesis methodology: Promoting design productivity and exploring extreme FPGA frequency</i>. In 2013 IEEE 21st Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM), pp. 228-228. IEEE, 2013. </li><br>
+
+<li><b>Liu, Cheng</b>, Lei Zhang, Yinhe Han, and Xiaowei Li. <i>Dynamic Buffer Regulator for 3D Mesh Network-on-Chip</i>. 3D Integration Workshop in conjunction with ACM/IEEE Design, Automation and Test in Europe (DATE), Grenoble, France, March 18, 2011 </li><br>
+
+
+</ul>
+</div>
+<p class="post-footer"><a href="#top">BACK TO TOP </a></p>
+<hr>
+
+
+<div id="experience" class="post"><a name="experience"></a>
+<font color="FF4900"><h2 class="post-title">&nbsp;&nbsp;Experience</h2></font>
+<ul>
+
+<h3 class="post-title">Associate professor</h3>
+<ul>
+<li><b>Institute of Computing Technology, Chinese Academy of Sciences</b> <br>
+Jun 2018 - Present, Beijing, China<br>
+AI acceleration and graph processing acceleration <br>
+</li> <br>
+</ul>
+
+<h3 class="post-title">Research Fellow</h3>
+<ul>
+<li><b>School of Computing, National University of Singapore</b> <br>
+Nov 2016 - Jun 2018, Clementi, Singapore<br>
+Graph processing acceleration <br>
+</li> <br>
+</ul>
+
+<h3 class="post-title">Senior FPGA Engineer</h3>
+<ul>
+<li><b>Sensetime, Inc.</a></b> <br>
+Apr - Oct 2016, Shenzhen, China <br>
+Customized neural network accelerator for face recognition on embedded system <br>
+</li> <br>
+</ul>
+
+<h3 class="post-title">Teaching Assisstant</h3>
+<ul>
+<li> Computer Architecture (ELEC3441) </li>
+<li> Introduction to Electrical and Electronic Engineering (ENGG1203) </li>
+<li> Object oriented programming and Data Structure (ELEC1503) </li>
+<li> Big Data Systems on Future Hardware </li> <br>
+</ul>
+
+</ul>
+</div>
+<p class="post-footer"><a href="#top">BACK TO TOP </a></p>
+<hr>
+
+<div id="service" class="post"><a name="service"></a>
+<font color="FF4900"><h2 class="post-title">&nbsp;&nbsp;Service</h2></font>
+<ul>
+  <li>Review for:</li>
+  <h3 class="post-title"></h3>
+  <ul>
+    <li>IEEE Transactions on Very Large Scale Integration (TVLSI)</li>
+	<li>Journal of Computer Methods and Programs in Biomedicine</li>
+  </ul>
+</ul>
+</div>
+<p class="post-footer"><a href="#top">BACK TO TOP </a></p>
+<hr>
+
+
+<div id="contact" class="post"><a name="contact"></a>
+<font color="FF4900"><h2 class="post-title">&nbsp;&nbsp;Contact</h2></font>
+<ul>
+<li>E-mail: liucheng [at] ict [at] ac [dot] cn </li><br>
+</ul>
+</div>
+<p class="post-footer"><a href="#top">BACK TO TOP </a></p>
+<hr>
+
+</div>
+</body>
+
+</html>
+
