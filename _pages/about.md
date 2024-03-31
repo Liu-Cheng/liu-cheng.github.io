@@ -36,12 +36,12 @@ I am looking for self-motivated intern students. Students with EE and CS backgro
 
 
 ## News
-- [June 2020] Shengwen Liang and Rick Lee won the Third Prize (FPGA Track) of the 2020 IEEE Low-Power Computer Vision Challenge (LPCVC).
-- [July 2022] Haitong Huang, Erjing Luo, and Cangyuan Li in my group got the Third Place in DAC'22 SDC.
-- [Jan. 2023] Our work "EnGN: A High-Throughput and Energy-Efficient Accelerator for Large Graph Neural Networks" won the Best Paper Award of TC'21.
-- [June 2023] Congratulations! Haitong Huang, Erjing Luo, and Guoyu Li got the Second Place in DAC'23 SDC.
-- [Nov, 2023] A HW/SW co-design framework for mixed-precision neural network acceleration on FPGAs is accepted by ICCAD'23. It is open sourced on github and we are adding LLM support to enable more intelligent code generation.
-- [Mar, 2024] A multi-resolution fault injection framework for deep learning is accepted by TVLSI'24. It is well documented and validated sufficiently, and provides many convenient evaluation features that are typically required in fault-tolerant deep learning study. Check it on github.
+- [Jun 2020] Shengwen Liang and Rick Lee won the Third Prize (FPGA Track) of the 2020 IEEE Low-Power Computer Vision Challenge (LPCVC).
+- [Jul 2022] Haitong Huang, Erjing Luo, and Cangyuan Li in my group got the Third Place in DAC'22 SDC.
+- [Jan 2023] Our work "EnGN: A High-Throughput and Energy-Efficient Accelerator for Large Graph Neural Networks" won the Best Paper Award of TC'21.
+- [Jun 2023] Congratulations! Haitong Huang, Erjing Luo, and Guoyu Li got the Second Place in DAC'23 SDC.
+- [Nov 2023] A HW/SW co-design framework for mixed-precision neural network acceleration on FPGAs (DeepBurning-MixQ) is accepted by ICCAD'23. We are adding LLM support to enable more intelligent code generation. The code is open sourced on github and welcome to try it.
+- [Mar 2024] A multi-resolution fault injection framework for deep learning is accepted by TVLSI'24. It is well documented and validated sufficiently, and provides many convenient evaluation features that are typically required in fault-tolerant deep learning study. Check it on github.
 
 
 ## Fundings
