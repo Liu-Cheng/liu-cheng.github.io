@@ -9,15 +9,15 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor in State Key Laboratory of Processors (SKLP), Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). I got my B.Eng degree and M.Eng degree from Harbin Institute of Technology, and Ph.D degree from The University of Hong Kong advised by Prof. Hayden So in 2016. I worked as a research fellow in National University of Singapore from 2016 to 2018, and thereafter, I joined ICT as an associate professor. My current research interest focuses on domain specific architecture and system, intelligent IC design and EDA tools.
+I am an associate professor in State Key Laboratory of Processors (SKLP), Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). I got my B.Eng degree and M.Eng degree from Harbin Institute of Technology, and Ph.D degree from The University of Hong Kong advised by Prof. Hayden So in 2016. I worked as a research fellow in National University of Singapore from 2016 to 2018, and thereafter, I joined ICT as an associate professor. My current research interest focuses on domain specific architecture and system, LLM for Chip Design.
 
 
 ## Vancancies
-I am looking for self-motivated intern students. Students with EE and CS background are preferred. It is possible to work fully remotely. Check the topics in the following list and contact me if you are interested.
-- Domain-specific architecture and system
-- Intelligent SoC design
-- Intelligent EDA tools
-- In-storage big data processing system
+I am looking for self-motivated master/intern students for RISC-V SoC design. Students with RISC-V processor design experience are highly preferred. It is possible to work fully remotely. Check the topics in the following list and contact me if you are interested.
+- RISC-V customization instruction design automation
+- Low-power SoC Design
+- RISC-V SoC Prototyping on HAPS
+- RISC-V SoC Simulator
 
 
 <!-- <address>
