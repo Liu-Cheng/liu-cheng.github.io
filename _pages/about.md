@@ -67,6 +67,10 @@ I am looking for self-motivated master/intern students for RISC-V SoC design. St
 - Review for TC, TPDS, TCAD. TVLSI, TETC, JETC, JSA, TNNLS
 
 ## Graduated Students
+- Zheng Feng (Master student, Huawei, AI Compilation)
+- Guoyu Li (Master student, Baidu, Kunlun Chip)
+- Haitong Huang (Master student, Tencent, AI Lab)
+- Xuejian Sun (Intern from Harbin Institute of Technology, Master student in Fudan University)
 - Erjing Luo (Intern from Beijing Institute of Technology, Mphil in University of Alberta)
 - Miaoxin Wang (Intern from Harbin Institute of Technology, Master student in Nanjing University)
 - Jinming Zhao (Intern from Wuhan University, PhD candidate in the University of Hong Kong)
