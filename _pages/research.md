@@ -10,21 +10,7 @@ classes: wide
 LLMs with powerful imitation and learning capability can not only handle tedious and repetitve work but also address more complex work that requires expertise and experiences. SoC design that consists of a set of connected standard IPs actually become a possible task for LLMs. We investigate the use of LLM for SoC design with a top-down approach ranging from architecture design, IP integration, processor customization, accelerator generation, SoC debug and verification.
 
 [HLSPilot](https://github.com/xcw-1010/HLSPilot.git): This is an LLM-based HLS code generation framework that is capable to select the most time-consuming computing kernels with profling and converts the selected C/C++ kernels to Xilinx HLS automatically. Meanwhile, it leverages a DSE tool to further tune the generated HLS code for more efficient accelerator generation. Essentially, this framework provides a possible approach for automatic hardware accelerator generation with high-level code and it will be a key component of the LLM-based SoC design as well.
-<!-- ## Software
 
-TBC -->
-
-<!-- https://github.com/bhargavvader/pycobra
-
-<iframe src="https://ghbtns.com/github-btn.html?user={{ bhargavvader }}&repo={{ pycobra }}&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
-
-https://github.com/astha736/PACbayesianNMF
-
-https://cran.r-project.org/web/packages/COBRA/index.html
-
-https://cran.r-project.org/web/packages/pacbpred/index.html
-
-https://i-pri.org/special/Biostatistics/Software/Geneland/ -->
 
 ## Domain-Specific Accelerator Design Tools (Ongoing)
 We investigate DSA design automation approaches from different perspectives including HLS template based frameworks, hardware overlays, and domain specific languages. In order to optimize the resulting DSAs, DSE tools are also explored and integrated.
