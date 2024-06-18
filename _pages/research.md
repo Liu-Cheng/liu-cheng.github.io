@@ -15,7 +15,11 @@ LLMs with powerful imitation and learning capability can not only handle tedious
 ## Domain-Specific Accelerator Design Tools (Ongoing)
 We investigate DSA design automation approaches from different perspectives including HLS template based frameworks, hardware overlays, and domain specific languages. In order to optimize the resulting DSAs, DSE tools are also explored and integrated.
 
-[DeepBurning-MixQ](https://github.com/fffasttime/AnyPackingNet.git) [BFS Accelerator](https://github.com/Liu-Cheng/bfs_with_Intel_OpenCL.git)
+[ApproxPilot](https://anonymous.4open.science/r/840c8c57-3c32-451e-bf12-0e243562/) This work presents a Graph Neural Network (GNN) model that leverages the physical connections of arithmetic units to capture their influence on the performance, power, area (PPA), and accuracy of the accelerator. Particularly, we notice that critical path plays a key role in node feature of the GNN model and having it embedded in the feature vector greatly enhances the prediction quality of the models. On top of the prediction models, we can further explore the large design space effectively and build an end-to-end accelerator approximation framework named ApproxPilot to optimize generic hardware accelerator approximation.
+
+[DeepBurning-MixQ](https://github.com/fffasttime/AnyPackingNet.git) This work presents a pipelined neural network accelerator design framework DeepBurning-MixQ for FPGAs. It proposes to pack multiple low bit-width operations within a single primitive DSP of FPGAs and enables efficient acceleration of mixed-precision neural network models. In addition, it integrates NAS with the hardware acceleration such that it can optimizes both model accuracy and performance. 
+
+[BFS Accelerator](https://github.com/Liu-Cheng/bfs_with_Intel_OpenCL.git) It presents a fully pipelined BFS accelerator design based on HLS. Particularly, it proposes an graph reordering and padding algorithm to address the on-chip operation conflicts and enahnces the pipeline efficiency significantly. The resulting BFS acceleratror achives comparable performance over prior handcrafted designs.
 
 
 ## Graph Processing Accelerators and Systems (Ongoing)
