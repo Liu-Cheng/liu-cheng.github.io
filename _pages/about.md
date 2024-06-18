@@ -13,11 +13,11 @@ I am an associate professor in State Key Laboratory of Processors (SKLP), Instit
 
 
 ## Vancancies
-I am looking for self-motivated master/intern students for RISC-V SoC design. Students with RISC-V processor design experience are highly preferred. It is possible to work fully remotely. Check the topics in the following list and contact me if you are interested.
-- RISC-V customization instruction design automation
-- Low-power SoC Design
-- RISC-V SoC Prototyping on HAPS
-- RISC-V SoC Simulator
+I am looking for self-motivated master/intern students for LLM-based intelligent chip designs. It includes various design tasks such as RISC-V SoC design and verification, RISC-V ASIP design automation, domain-specific accelerator generation, Low-power design and optimization. Students with RISC-V processor design and LLM experience are highly preferred. It is possible to work fully remotely. Check the topics in the following list and contact me if you are interested.
+- LLM-based SoC/DSA/ASIP design
+- LLM-based high-level synthesis
+- LLM-based ASIC design, verification, and debugging
+- LLM-based EDA parallelization
 
 
 <!-- <address>
