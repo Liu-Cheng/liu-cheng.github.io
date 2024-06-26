@@ -43,7 +43,7 @@ I am looking for self-motivated master/intern students for LLM-based intelligent
 - [Jun 2023] Congratulations! Haitong Huang, Erjing Luo, and Guoyu Li got the Second Place in DAC'23 SDC.
 - [Nov 2023] A HW/SW co-design framework for mixed-precision neural network acceleration on FPGAs (DeepBurning-MixQ) is accepted by ICCAD'23. We are adding LLM support to enable more intelligent code generation. The code is open sourced on github and welcome to try it.
 - [Mar 2024] A multi-resolution fault injection framework for deep learning is accepted by TVLSI'24. It is well documented and validated sufficiently, and provides many convenient evaluation features that are typically required in fault-tolerant deep learning study. Check it on github.
-
+- [Jun 2024] HLSPilot: LLM-based High-level Synthesis is accepted by ICCAD'24. This work presents an LLM-based high-level synthesis design framework for typical CPU-FPGA architecture. Particularly, it leverages LLM and RAG techniques to generate HLS-based accelerator design for arbitrary sequential C/C++ code, which is also a key component for our LLM-driven SoC generation framework.
 
 ## Fundings
 - HW/SW platform for intelligent cross-layer design and optimization of processors, 11 000 000￥, xdb(2024-2028)
