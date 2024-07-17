@@ -13,6 +13,8 @@ I am an associate professor in State Key Laboratory of Processors (SKLP), Instit
 
 
 ## Vancancies
+<font color="red">今年我在国科大杭高院还有1个硕士名额，欢迎联系报考。</font>
+
 I am looking for self-motivated master/intern students for LLM-based intelligent chip designs. It includes various design tasks such as RISC-V SoC design and verification, RISC-V ASIP design automation, domain-specific accelerator generation, Low-power design and optimization. Students with RISC-V processor design and LLM experience are highly preferred. It is possible to work fully remotely. Check the topics in the following list and contact me if you are interested.
 - LLM-based SoC/DSA/ASIP design
 - LLM-based high-level synthesis
