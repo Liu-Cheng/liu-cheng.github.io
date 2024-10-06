@@ -57,13 +57,16 @@ I am looking for self-motivated master/intern students for LLM-based intelligent
 - Fault-tolerant Deep Learning Processor Design Automation, 300 000￥, SKLCA(2021-2022)
 
 ## Talks
+- 基于大语言模型的全自动CPU-FPGA异构硬件加速, 高性能异构计算与人工智能优化论坛，CCF-HPC, 2024
 - 异构硬件加速器设计、优化以及编程, 高性能异构计算与人工智能优化论坛，CCF-HPC，2023
 - 基于计算存储器的图处理系统设计, 面向复杂图计算应用的新型高能效体系结构论坛，CNCC，2022
 - 容错深度学习处理器微结构设计，集成电路设计与自动化学术会议(CCF-DAC), 2021
 - DeepBurning2.0: An Automatic End-to-end Neural Network Acceleration System on FPGAs, 华南理工大学，软件学院, 2019
 
 ## Services
-- PC for DFT'22, FPT'22, ATS'23, FPT'23, DFT'23, ITC'22, ITC'23, NIPS'23, ICLR'24, FCCM'24, ICML'24
+- PC for DFTS'22, FPT'22, ITC'22
+- PC for ATS'23, FPT'23, DFTS'23, ITC'23, NeurIPS'23
+- PC for DFTS'24, FPT'24, ICLR'24, FCCM'24, ICML'24
 - Review for TC, TPDS, TCAD. TVLSI, TETC, JETC, JSA, TNNLS
 
 ## Graduated Students
