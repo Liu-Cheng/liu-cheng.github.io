@@ -11,7 +11,6 @@ redirect_from:
 
 I am an associate professor in State Key Laboratory of Processors (SKLP), Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). I got my B.Eng degree and M.Eng degree from Harbin Institute of Technology, and Ph.D degree from The University of Hong Kong advised by Prof. Hayden So in 2016. I worked as a research fellow in National University of Singapore from 2016 to 2018, and thereafter, I joined ICT as an associate professor. My current research interest focuses on domain specific architecture and system, LLM for Chip Design.
 
-
 ## Vancancies
 I am looking for self-motivated master/intern students for LLM-based intelligent chip designs. It includes various design tasks such as RISC-V SoC design and verification, RISC-V ASIP design automation, domain-specific accelerator generation, Low-power design and optimization. Students with RISC-V processor design and LLM experience are highly preferred. It is possible to work fully remotely. Check the topics in the following list and contact me if you are interested.
 - LLM-based SoC/DSA/ASIP design
@@ -43,7 +42,9 @@ I am looking for self-motivated master/intern students for LLM-based intelligent
 - [Jun 2023] Congratulations! Haitong Huang, Erjing Luo, and Guoyu Li got the Second Place in DAC'23 SDC.
 - [Nov 2023] A HW/SW co-design framework for mixed-precision neural network acceleration on FPGAs (DeepBurning-MixQ) is accepted by ICCAD'23. We are adding LLM support to enable more intelligent code generation. The code is open sourced on github and welcome to try it.
 - [Mar 2024] A multi-resolution fault injection framework for deep learning is accepted by TVLSI'24. It is well documented and validated sufficiently, and provides many convenient evaluation features that are typically required in fault-tolerant deep learning study. Check it on github.
+- [May 2024] Our work on computational storage got Huawei OlympusMons Awards in 2024.
 - [Jun 2024] HLSPilot: LLM-based High-level Synthesis is accepted by ICCAD'24. This work presents an LLM-based high-level synthesis design framework for typical CPU-FPGA architecture. Particularly, it leverages LLM and RAG techniques to generate HLS-based accelerator design for arbitrary sequential C/C++ code, which is also a key component for our LLM-driven SoC generation framework.
+- [Oct 2024] Our work on CIM-based LLM acceleration collaborated with Dr. Luo is accepted by IEEE TPAMI.
 
 ## Fundings
 - HW/SW platform for intelligent cross-layer design and optimization of processors, 11 000 000￥, xdb(2024-2028)
