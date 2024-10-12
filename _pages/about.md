@@ -70,6 +70,7 @@ I am looking for self-motivated master/intern students for LLM-based intelligent
 - Review for TC, TPDS, TCAD. TVLSI, TETC, JETC, JSA, TNNLS
 
 ## Graduated Students
+- Xinghua Xue (Ph.D, Hangzhou Institute of Advanced Study, UCAS)
 - Zheng Feng (Master student, Huawei, AI Compilation)
 - Guoyu Li (Master student, Baidu, Kunlun Chip)
 - Haitong Huang (Master student, Tencent, AI Lab)
