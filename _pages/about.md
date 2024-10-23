@@ -45,6 +45,7 @@ I am looking for self-motivated master/intern students for LLM-based intelligent
 - [May 2024] Our work on computational storage got Huawei OlympusMons Awards in 2024.
 - [Jun 2024] HLSPilot: LLM-based High-level Synthesis is accepted by ICCAD'24. This work presents an LLM-based high-level synthesis design framework for typical CPU-FPGA architecture. Particularly, it leverages LLM and RAG techniques to generate HLS-based accelerator design for arbitrary sequential C/C++ code, which is also a key component for our LLM-driven SoC generation framework.
 - [Oct 2024] Our work on CIM-based LLM acceleration collaborated with Dr. Luo is accepted by IEEE TPAMI.
+- [Oct 2024] 
 
 ## Fundings
 - HW/SW platform for intelligent cross-layer design and optimization of processors, 11 000 000￥, xdb(2024-2028)
@@ -65,9 +66,10 @@ I am looking for self-motivated master/intern students for LLM-based intelligent
 - DeepBurning2.0: An Automatic End-to-end Neural Network Acceleration System on FPGAs, 华南理工大学，软件学院, 2019
 
 ## Services
-- PC for DFTS'22, FPT'22, ITC'22
-- PC for ATS'23, FPT'23, DFTS'23, ITC'23, NeurIPS'23
-- PC for DFTS'24, FPT'24, ICLR'24, FCCM'24, ICML'24
+- AE of IEEE Transactions on Emerging Topics in Computing
+- TPC for DFTS'22, FPT'22, ITC'22
+- TPC for ATS'23, FPT'23, DFTS'23, ITC'23, NeurIPS'23
+- TPC for DFTS'24, FPT'24, ICLR'24, FCCM'24, ICML'24
 - Review for TC, TPDS, TCAD. TVLSI, TETC, JETC, JSA, TNNLS
 
 ## Graduated Students
