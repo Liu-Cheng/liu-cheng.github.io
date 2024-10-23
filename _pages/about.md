@@ -45,7 +45,7 @@ I am looking for self-motivated master/intern students for LLM-based intelligent
 - [May 2024] Our work on computational storage got Huawei OlympusMons Awards in 2024.
 - [Jun 2024] HLSPilot: LLM-based High-level Synthesis is accepted by ICCAD'24. This work presents an LLM-based high-level synthesis design framework for typical CPU-FPGA architecture. Particularly, it leverages LLM and RAG techniques to generate HLS-based accelerator design for arbitrary sequential C/C++ code, which is also a key component for our LLM-driven SoC generation framework.
 - [Oct 2024] Our work on CIM-based LLM acceleration collaborated with Dr. Luo is accepted by IEEE TPAMI.
-- [Oct 2024] 
+- [Oct 2024] Start to serve as an associate editor of IEEE Transactions on Emerging Topics in Computing.  
 
 ## Fundings
 - HW/SW platform for intelligent cross-layer design and optimization of processors, 11 000 000￥, xdb(2024-2028)
