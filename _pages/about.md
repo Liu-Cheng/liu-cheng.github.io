@@ -47,6 +47,7 @@ I am looking for self-motivated master/intern students for LLM-based intelligent
 - [Oct 2024] Our work on CIM-based LLM acceleration collaborated with Dr. Luo is accepted by IEEE TPAMI.
 - [Oct 2024] Start to serve as an associate editor of IEEE Transactions on Emerging Topics in Computing.  
 - [Nov 2024] Two papers about DSA are accepted by HPCA'25.
+- [Dec 2024] Our TaijiGraph, a computational storage (CSD) based out-of-core graph processing system, is accepted by IPDPS25 with strong accept. It leverages CSDs to address the I/O bottleneck of out-of-core graph processing systems from the perspective of both high-level data layout, task scheduling and low-level I/O coalescing.
 
 ## Fundings
 - HW/SW platform for intelligent cross-layer design and optimization of processors, 11 000 000￥, xdb(2024-2028)
