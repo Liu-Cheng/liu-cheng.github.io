@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Short Bio"
+title: "Home"
 excerpt: "About me"
 author_profile: true
 classes: wide
@@ -9,6 +9,7 @@ redirect_from:
   - /about.html
 ---
 
+## Short Bio
 I am an associate professor in State Key Laboratory of Processors (SKLP), Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). I got my B.Eng degree and M.Eng degree from Harbin Institute of Technology, and Ph.D degree from The University of Hong Kong advised by Prof. Hayden So in 2016. I worked as a research fellow in National University of Singapore from 2016 to 2018, and thereafter, I joined ICT as an associate professor. My current research interest focuses on domain specific architecture and system, LLM for Chip Design, LLM-based code generation. I am a senior member of IEEE and CCF, and a member of ACM. Please check my [CV](https://liu-cheng.github.io/files/mycv.pdf) for more information.
 
 ## Vancancies
