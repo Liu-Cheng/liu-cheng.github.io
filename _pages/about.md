@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "Short Bio"
 excerpt: "About me"
 author_profile: true
 classes: wide
