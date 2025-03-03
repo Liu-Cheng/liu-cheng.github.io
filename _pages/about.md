@@ -37,18 +37,19 @@ I am looking for self-motivated master/intern students for LLM-based intelligent
 
 
 ## News
-- [Jun 2020] Shengwen Liang and Rick Lee won the Third Prize (FPGA Track) of the 2020 IEEE Low-Power Computer Vision Challenge (LPCVC).
-- [Jul 2022] Haitong Huang, Erjing Luo, and Cangyuan Li in my group got the Third Place in DAC'22 SDC.
-- [Jan 2023] Our work "EnGN: A High-Throughput and Energy-Efficient Accelerator for Large Graph Neural Networks" won the Best Paper Award of TC'21.
-- [Jun 2023] Congratulations! Haitong Huang, Erjing Luo, and Guoyu Li got the Second Place in DAC'23 SDC.
-- [Nov 2023] A HW/SW co-design framework for mixed-precision neural network acceleration on FPGAs (DeepBurning-MixQ) is accepted by ICCAD'23. We are adding LLM support to enable more intelligent code generation. The code is open sourced on github and welcome to try it.
-- [Mar 2024] A multi-resolution fault injection framework for deep learning is accepted by TVLSI'24. It is well documented and validated sufficiently, and provides many convenient evaluation features that are typically required in fault-tolerant deep learning study. Check it on github.
-- [May 2024] Our work on computational storage got Huawei OlympusMons Awards in 2024.
-- [Jun 2024] HLSPilot: LLM-based High-level Synthesis is accepted by ICCAD'24. This work presents an LLM-based high-level synthesis design framework for typical CPU-FPGA architecture. Particularly, it leverages LLM and RAG techniques to generate HLS-based accelerator design for arbitrary sequential C/C++ code, which is also a key component for our LLM-driven SoC generation framework.
-- [Oct 2024] Our work on CIM-based LLM acceleration collaborated with Dr. Luo is accepted by IEEE TPAMI.
-- [Oct 2024] Start to serve as an associate editor of IEEE Transactions on Emerging Topics in Computing.  
-- [Nov 2024] Two papers about DSA are accepted by HPCA'25.
+- [Mar 2025] We got the third place in the PPoPP'25 FastCode Programming Challenge for the BFS track and achieved the highest throughput on social network graphs. 
 - [Dec 2024] Our TaijiGraph, a computational storage (CSD) based out-of-core graph processing system, is accepted by IPDPS'25. It leverages CSDs to address the I/O bottleneck of out-of-core graph processing systems from the perspective of both high-level data layout, task scheduling and low-level I/O coalescing.
+- [Nov 2024] Two papers about DSA are accepted by HPCA'25.
+- [Oct 2024] Start to serve as an associate editor of IEEE Transactions on Emerging Topics in Computing.  
+- [Oct 2024] Our work on CIM-based LLM acceleration collaborated with Dr. Luo is accepted by IEEE TPAMI.
+- [Jun 2024] HLSPilot: LLM-based High-level Synthesis is accepted by ICCAD'24. This work presents an LLM-based high-level synthesis design framework for typical CPU-FPGA architecture. Particularly, it leverages LLM and RAG techniques to generate HLS-based accelerator design for arbitrary sequential C/C++ code, which is also a key component for our LLM-driven SoC generation framework.
+- [May 2024] Our work on computational storage got Huawei OlympusMons Awards in 2024.
+- [Mar 2024] A multi-resolution fault injection framework for deep learning is accepted by TVLSI'24. It is well documented and validated sufficiently, and provides many convenient evaluation features that are typically required in fault-tolerant deep learning study. Check it on github.
+- [Nov 2023] A HW/SW co-design framework for mixed-precision neural network acceleration on FPGAs (DeepBurning-MixQ) is accepted by ICCAD'23. We are adding LLM support to enable more intelligent code generation. The code is open sourced on github and welcome to try it.
+- [Jun 2023] Congratulations! Haitong Huang, Erjing Luo, and Guoyu Li got the Second Place in DAC'23 SDC.
+- [Jan 2023] Our work "EnGN: A High-Throughput and Energy-Efficient Accelerator for Large Graph Neural Networks" won the Best Paper Award of TC'21.
+- [Jul 2022] Haitong Huang, Erjing Luo, and Cangyuan Li in my group got the Third Place in DAC'22 SDC.
+- [Jun 2020] Shengwen Liang and Rick Lee won the Third Prize (FPGA Track) of the 2020 IEEE Low-Power Computer Vision Challenge (LPCVC).
 
 ## Fundings
 - HW/SW platform for intelligent cross-layer design and optimization of processors, 11 000 000￥, xdb(2024-2028)
