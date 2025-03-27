@@ -37,6 +37,7 @@ I am looking for self-motivated master/intern students for LLM-based intelligent
 
 
 ## News
+- [Mar 2025] Our FrontOrder approach is accepted by ICDE'25 and ApproxPilot work is accepted by ISEDA'25. All of them are open sourced, feel free to try them.
 - [Mar 2025] We got the third place in the PPoPP'25 FastCode Programming Challenge for the BFS track and achieved the highest throughput on social network graphs. 
 - [Dec 2024] Our TaijiGraph, a computational storage (CSD) based out-of-core graph processing system, is accepted by IPDPS'25. It leverages CSDs to address the I/O bottleneck of out-of-core graph processing systems from the perspective of both high-level data layout, task scheduling and low-level I/O coalescing.
 - [Nov 2024] Two papers about DSA are accepted by HPCA'25.
@@ -63,6 +64,7 @@ I am looking for self-motivated master/intern students for LLM-based intelligent
 - Fault-tolerant Deep Learning Processor Design Automation, 300 000￥, SKLCA(2021-2022)
 
 ## Talks
+- Investigating Self-Test, Self-Diagnosis, and Self-Recovery (3S) Techniques for Wafer-Scale AI Chips, SEMICON China, 2025
 - 基于大语言模型的全自动CPU-FPGA异构硬件加速, 高性能异构计算与人工智能优化论坛，CCF-HPC, 2024
 - 异构硬件加速器设计、优化以及编程, 高性能异构计算与人工智能优化论坛，CCF-HPC，2023
 - 基于计算存储器的图处理系统设计, 面向复杂图计算应用的新型高能效体系结构论坛，CNCC，2022
