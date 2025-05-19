@@ -73,6 +73,8 @@ I am looking for self-motivated master/intern students for LLM-based intelligent
 - DeepBurning2.0: An Automatic End-to-end Neural Network Acceleration System on FPGAs, 华南理工大学，软件学院, 2019
 
 ## Services
+- Session co-chair of DAC'25
+- Session chair of ISEDA'25
 - AE of IEEE Transactions on Emerging Topics in Computing
 - TPC for DFTS'22, FPT'22, ITC'22
 - TPC for ATS'23, FPT'23, DFTS'23, ITC'23, NeurIPS'23
@@ -81,6 +83,10 @@ I am looking for self-motivated master/intern students for LLM-based intelligent
 - Review for TC, TPDS, TCAD. TVLSI, TETC, JETC, JSA, TNNLS
 
 ## Graduated Students
+- Chengwei Xiong (Master student, 字节跳动)
+- Qing Zhang (Master student, 腾讯)
+- Wenyu Zhang (Intern from Harbin Institute of Technology, 兆易创新)
+- Zesong Jiang (Intern from University of Science and Technology, PhD candidate in Arizona State University)
 - Xinghua Xue (Ph.D, Hangzhou Institute of Advanced Study, UCAS)
 - Zheng Feng (Master student, Huawei, AI Compilation)
 - Guoyu Li (Master student, Baidu, Kunlun Chip)
