@@ -76,7 +76,8 @@ I am looking for self-motivated master/intern students for LLM-based intelligent
 ## Services
 - Session co-chair of DAC'25
 - Session chair of ISEDA'25
-- AE of IEEE Transactions on Emerging Topics in Computing
+- Member of the Review Board, IEEE Transactions on Parallel and Distributed Systems (TPDS)
+- Associate Editor, IEEE Transactions on Emerging Topics in Computing (TETC)
 - TPC for DFTS'22, FPT'22, ITC'22
 - TPC for ATS'23, FPT'23, DFTS'23, ITC'23, NeurIPS'23
 - TPC for DFTS'24, FPT'24, ICLR'24, FCCM'24, ICML'24
