@@ -37,6 +37,7 @@ I am looking for self-motivated master/intern students for LLM-based intelligent
 
 
 ## News
+- [Jan 2026] Our work that investigates small language models for efficient CUDA code generation through an LLM-generated reasoning graph has been accepted by ICLR'26.
 - [Jun 2025] Our recent work on DRAM-PIM based ANNS Engine is accepeted by SC'25.
 - [Mar 2025] Our DSL for FPGA-based graph processing accelerator generation is accepeted by LCTES'25.
 - [Mar 2025] Our FrontOrder approach is accepted by ICDE'25 and ApproxPilot work is accepted by ISEDA'25. All of them are open sourced, feel free to try them.
