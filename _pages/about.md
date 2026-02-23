@@ -37,6 +37,7 @@ I am looking for self-motivated master/intern students for LLM-based intelligent
 
 
 ## News
+- [Feb 2026] Our work on mixed precision neural network processing on MCUs is accepted by ACM TECS'26. It outperforms SOTA neural network processing frameworks substantially and is now open sourced on github. Welcome to try it.
 - [Feb 2026] Our work on input adaptive soft error protection is accepted by TCAD'26.
 - [Jan 2026] Our work that analyzes errors in LLM-based code generation is accepted by TCAD'26. We find many interesting reasons for the errors that may help to imporve future LLMs for verilog code generation.
 - [Jan 2026] Our work that investigates small language models for efficient CUDA code generation through an LLM-generated reasoning graph has been accepted by ICLR'26.
