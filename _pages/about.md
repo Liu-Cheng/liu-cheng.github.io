@@ -37,6 +37,7 @@ I am looking for self-motivated master/intern students for LLM-based intelligent
 
 
 ## News
+- [Mar 2026] Our recent work on modeling the correlation between chiplet redundancy and cost is accepted by TCAD'26.
 - [Feb 2026] Our recent work on fault-tolerant LLM inference algorithm is accepted by DAC'26.
 - [Feb 2026] Our work on mixed precision neural network processing on MCUs is accepted by ACM TECS'26. It outperforms SOTA neural network processing frameworks substantially and is now open sourced on github. Welcome to try it.
 - [Feb 2026] Our work on input adaptive soft error protection is accepted by TCAD'26.
@@ -90,14 +91,17 @@ I am looking for self-motivated master/intern students for LLM-based intelligent
 - Review for TC, TPDS, TCAD. TVLSI, TETC, JETC, JSA, TNNLS
 
 ## Graduated Students
-- Chengwei Xiong (Master student, 字节跳动)
-- Qing Zhang (Master student, 腾讯)
+- Mingkai Chen (PhD, 字节跳动)
+- Junfeng Gong (Master, Seed)
+- Xinmiao Zhang (PhD, 阿里淘天)
+- Chengwei Xiong (Master, 字节跳动)
+- Qing Zhang (Master, 腾讯)
 - Wenyu Zhang (Intern from Harbin Institute of Technology, 兆易创新)
 - Zesong Jiang (Intern from University of Science and Technology, PhD candidate in Arizona State University)
-- Xinghua Xue (Ph.D, Hangzhou Institute of Advanced Study, UCAS)
-- Zheng Feng (Master student, Huawei, AI Compilation)
-- Guoyu Li (Master student, Baidu, Kunlun Chip)
-- Haitong Huang (Master student, Tencent, AI Lab)
+- Xinghua Xue (PhD, Hangzhou Institute of Advanced Study, UCAS)
+- Zheng Feng (Master, Huawei, AI Compilation)
+- Guoyu Li (Master, Baidu, Kunlun Chip)
+- Haitong Huang (Master, Tencent, AI Lab)
 - Xuejian Sun (Intern from Harbin Institute of Technology, Master student in Fudan University)
 - Erjing Luo (Intern from Beijing Institute of Technology, Mphil in University of Alberta)
 - Miaoxin Wang (Intern from Harbin Institute of Technology, Master student in Nanjing University)
@@ -106,13 +110,13 @@ I am looking for self-motivated master/intern students for LLM-based intelligent
 - Cheng Chu (Intern from Hefei University of Technology, PhD candidate in Indiana University Bloomington)
 - Meng He (Intern from Hefei University of Technology, 字节跳动)
 - Ziyang Zhu (Intern from Hefei University of Technology, 紫光展锐)
-- Qiang Zhang (Master Student, 快手)
+- Qiang Zhang (Master, 快手)
 - Kouzi Xing (Intern from Hefei University of Technology, 商汤科技)
 - Li Li (Intern from Hefei University of Technology, 京东)
 - Kexin Chu (Intern from Hefei University of Technology, 百度)
 - Kaijie Tu (Intern from Hefei University of Technology, 计算所)
-- Chang Shi (Master student, Alibaba)
-- Peibin Wu (Master student, MSRA)
+- Chang Shi (Master, Alibaba)
+- Peibin Wu (Master, MSRA)
 
 <!-- ## News
 
