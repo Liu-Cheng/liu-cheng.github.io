@@ -11,7 +11,7 @@ redirect_from:
 
 ## Short Bio
 I am an Associate Professor at the State Key Laboratory of Processors (SKLP), Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). **I will soon be joining the School of Control and Computer Engineering at North China Electric Power University**.
-I received my Ph.D. from **The University of Hong Kong** in 2016 under the supervision of Prof. Hayden K. H. So. Prior to joining ICT, I served as a Research Fellow at the **National University of Singapore** (2016-2018). I hold a B.Eng. and M.Eng. from **Harbin Institute of Technology**.
+I received my Ph.D. from The University of Hong Kong in 2016 under the supervision of Prof. Hayden K. H. So. Prior to joining ICT, I served as a Research Fellow at the National University of Singapore (2016-2018). I hold a B.Eng. and M.Eng. from Harbin Institute of Technology.
 My research focuses on Computer Architecture, specifically Domain-Specific Architectures, LLM for Chip Design, and Hardware Code Generation. I am a Senior Member of IEEE and CCF, and a Member of ACM.
 
 
