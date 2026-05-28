@@ -37,6 +37,7 @@ I am looking for self-motivated master/intern students for LLM-based intelligent
 
 
 ## News
+- [May 2026] We are glad to have contributed a chapter on lightweight ABFT to the recently published book, Machine Learning Systems: The Role of Hardware Design for Dependable Computing.
 - [Mar 2026] Our recent work on modeling the correlation between chiplet redundancy and cost is accepted by TCAD'26.
 - [Feb 2026] Our recent work on fault-tolerant LLM inference algorithm is accepted by DAC'26.
 - [Feb 2026] Our work on mixed precision neural network processing on MCUs is accepted by ACM TECS'26. It outperforms SOTA neural network processing frameworks substantially and is now open sourced on github. Welcome to try it.
