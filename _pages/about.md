@@ -15,8 +15,8 @@ My research interests lie in LLM for chip design and code generation agents for 
 
 
 ## Vancancies
-I am looking for self-motivated master/intern students interested in code agents for customized processor and system generation. It includes various design tasks such as RISC-V SoC design and verification, RISC-V ASIP design automation, domain-specific accelerator generation, Students with RISC-V processor design and LLM experience are highly preferred. It is possible to work fully remotely. Check the topics in the following list and contact me if you are interested (liucheng@ncepu.edu.cn, liucheng@ict.ac.cn).
-- customized processor generation
+I am looking for self-motivated master/intern students interested in code agents for customized processor and system generation. It includes various design tasks such as RISC-V SoC design and verification, RISC-V ASIP design automation, domain-specific accelerator generation, Students with RISC-V processor design and LLM experience are highly preferred. It is possible to work fully remotely. Check the topics in the following list and contact me if you are interested (liucheng@ncepu.edu.cn).
+- Customized processor generation
 - LLM-powered high-level synthesis
 - RTL design agents
 - Code agents for embedded systems
@@ -58,7 +58,7 @@ I am looking for self-motivated master/intern students interested in code agents
 - Fault-tolerant Deep Learning Processor Design Automation, 300 000￥, SKLCA(2021-2022)
 
 ## Talks
-- 基于大语言模型的全流程芯片�, 第一届CCF大模型与AI工程大会暨自然语言处理�26
+- 基于大语言模型的全流程芯片设计实践, 第一届CCF大模型与AI工程大会暨自然语言处理研讨会, 2026
 - SoCPilot: An End-to-End SoC Chip Design Framework, CCF-HPC China, 2025
 - Investigating Self-Test, Self-Diagnosis, and Self-Recovery (3S) Techniques for Wafer-Scale AI Chips, SEMICON China, 2025
 - 基于大语言模型的全自动CPU-FPGA异构硬件加速, 高性能异构计算与人工智能优化论坛，CCF-HPC, 2024
@@ -68,6 +68,7 @@ I am looking for self-motivated master/intern students interested in code agents
 - DeepBurning2.0: An Automatic End-to-end Neural Network Acceleration System on FPGAs, 华南理工大学，软件学院, 2019
 
 ## Services
+- TPC ChinaSys'26, DFTS'26, EMNLP'26
 - Session co-chair of DAC'25
 - Session chair of ISEDA'25
 - Member of the Review Board, IEEE Transactions on Parallel and Distributed Systems (TPDS)
