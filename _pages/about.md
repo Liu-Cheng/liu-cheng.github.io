@@ -10,34 +10,16 @@ redirect_from:
 ---
 
 ## Short Bio
-I am a full Professor at School of Control and Computer Engineering, North China Electric Power University. I was an associate professor at State Key Laboratory of Processors (SKLP), Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS) (2018-2026).
-I received my Ph.D. from The University of Hong Kong in 2016 under the supervision of Prof. Hayden K. H. So. Prior to joining ICT, I served as a Research Fellow at the National University of Singapore (2016-2018). I hold a B.Eng. and M.Eng. from Harbin Institute of Technology.
-My research focuses on Computer Architecture, specifically Domain-Specific Architectures, LLM for Chip Design, and Hardware Code Generation. I am a Senior Member of IEEE and CCF, and a Member of ACM.
+I am a Full Professor at the School of Control and Computer Engineering, North China Electric Power University. Prior to this, I was an Associate Professor at the State Key Laboratory of Processors (SKLP), Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS) from 2018 to 2026. Before joining ICT, I was a Research Fellow at the National University of Singapore from 2016 to 2018. I received my Ph.D. from The University of Hong Kong in 2016, under the supervision of Prof. Hayden K. H. So. I obtained my B.Eng. and M.Eng. degrees from Harbin Institute of Technology.
+My research interests lie in LLM for chip design and code generation agents for hardware and systems.
 
 
 ## Vancancies
-I am looking for self-motivated master/intern students for LLM-based intelligent chip designs. It includes various design tasks such as RISC-V SoC design and verification, RISC-V ASIP design automation, domain-specific accelerator generation, Low-power design and optimization. Students with RISC-V processor design and LLM experience are highly preferred. It is possible to work fully remotely. Check the topics in the following list and contact me if you are interested.
-- LLM-based SoC/DSA/ASIP design
-- LLM-based high-level synthesis
-- LLM-based ASIC design, verification, and debugging
-- LLM-based EDA parallelization
-
-
-<!-- <address>
-  UCL Centre for Artificial Intelligence<br />Office 1.25L<br />90 High Holborn<br /> WC1V 6LJ London<br /> United Kingdom
-</address>
-<br> -->
-
-<!-- ([see on Google Maps](https://goo.gl/maps/5JmzYNJTt8hZufbZA)) -->
-
-<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4965.579778013099!2d-0.12450412319706675!3d51.51707062522409!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b3585a9c137%3A0xffe1d0c346654ca5!2s90%20High%20Holborn%2C%20Holborn%2C%20London%20WC1V%206LJ!5e0!3m2!1sfr!2suk!4v1588107506410!5m2!1sfr!2suk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe> -->
-
-
-<!-- I obtained a Ph.D. in mathematics in 2013 from [UPMC](http://www.upmc.fr/) (Université Pierre & Marie Curie, France) under the supervision of [Gérard Biau](http://www.lsta.upmc.fr/biau.html) and [Éric Moulines](https://scholar.google.fr/citations?user=_XE1LvQAAAAJ&hl=fr). Prior to that, I was a research assistant at [DTU Compute](http://www.compute.dtu.dk/) (Denmark) supervised by [Gilles Guillot](http://www2.imm.dtu.dk/~gigu/#).
- -->
-
-<!-- My main line of research is in statistical machine learning. I am primarily interested in the design, analysis and implementation of statistical learning methods for high dimensional problems. My interests include (but are not limited to): PAC-Bayesian theory, sparsity and high-dimensional statistics, optimisation theory, statistical learning theory, non-negative matrix factorisation, aggregation of estimators and classifiers, MCMC algorithms, (un)supervised learning, online clustering, concentration inequalities... -->
-
+I am looking for self-motivated master/intern students interested in code agents for customized processor and system generation. It includes various design tasks such as RISC-V SoC design and verification, RISC-V ASIP design automation, domain-specific accelerator generation, Students with RISC-V processor design and LLM experience are highly preferred. It is possible to work fully remotely. Check the topics in the following list and contact me if you are interested (liucheng@ncepu.edu.cn, liucheng@ict.ac.cn).
+- customized processor generation
+- LLM-powered high-level synthesis
+- RTL design agents
+- Code agents for embedded systems
 
 ## News
 - [May 2026] We are glad to have contributed a chapter on lightweight ABFT to the recently published book, Machine Learning Systems: The Role of Hardware Design for Dependable Computing.
@@ -76,6 +58,8 @@ I am looking for self-motivated master/intern students for LLM-based intelligent
 - Fault-tolerant Deep Learning Processor Design Automation, 300 000￥, SKLCA(2021-2022)
 
 ## Talks
+- 基于大语言模型的全流程芯片�, 第一届CCF大模型与AI工程大会暨自然语言处理�26
+- SoCPilot: An End-to-End SoC Chip Design Framework, CCF-HPC China, 2025
 - Investigating Self-Test, Self-Diagnosis, and Self-Recovery (3S) Techniques for Wafer-Scale AI Chips, SEMICON China, 2025
 - 基于大语言模型的全自动CPU-FPGA异构硬件加速, 高性能异构计算与人工智能优化论坛，CCF-HPC, 2024
 - 异构硬件加速器设计、优化以及编程, 高性能异构计算与人工智能优化论坛，CCF-HPC，2023
