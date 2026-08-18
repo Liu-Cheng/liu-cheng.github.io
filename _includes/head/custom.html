@@ -35,4 +35,49 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
+
+<style>
+  /* ===== 站点美化（2026-08-18）===== */
+  ::selection { background: rgba(21, 101, 192, 0.18); }
+  html { scroll-behavior: smooth; }
+  :focus-visible { outline: 2px solid rgba(21, 101, 192, 0.55); outline-offset: 2px; }
+
+  /* 作者头像：圆角 + 轻阴影 */
+  .author__avatar img {
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.10);
+  }
+
+  /* 正文图片圆角 */
+  .page__content img, .archive__item img, .figure img {
+    border-radius: 8px;
+  }
+
+  /* 页面标题：更精致的分隔 */
+  .page__title, .archive__item-title {
+    letter-spacing: -0.02em;
+  }
+
+  /* News/列表行距 */
+  .page__content li, .archive__item {
+    margin-bottom: 0.45em;
+    line-height: 1.6;
+  }
+
+  /* 导航栏：链接更清晰 */
+  .masthead__menu-item a {
+    font-weight: 500;
+  }
+
+  /* 代码块圆角 */
+  .highlight, pre, code, kbd, samp {
+    border-radius: 6px;
+  }
+
+  /* 移动端字号微调 */
+  @media (max-width: 600px) {
+    body { font-size: 15px; }
+  }
+</style>
+
 <!-- end custom head snippets -->

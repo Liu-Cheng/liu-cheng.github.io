@@ -14,7 +14,7 @@ I am a Full Professor at the School of Control and Computer Engineering, North C
 My research interests lie in LLM for chip design and code generation agents for hardware and systems.
 
 
-## Vancancies
+## Vacancies
 I am looking for self-motivated master/intern students interested in code agents for customized processor and system generation. It includes various design tasks such as RISC-V SoC design and verification, RISC-V ASIP design automation, domain-specific accelerator generation, Students with RISC-V processor design and LLM experience are highly preferred. It is possible to work fully remotely. Check the topics in the following list and contact me if you are interested (liucheng@ncepu.edu.cn).
 - Customized processor generation
 - LLM-powered high-level synthesis
