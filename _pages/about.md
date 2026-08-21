@@ -22,6 +22,7 @@ I am looking for self-motivated master/intern students interested in code agents
 - Code agents for embedded systems
 
 ## News
+- [Aug 2026] Our two papers are accepted by EMNLP'26: one on repository-level code optimization agents for heterogeneous CPU-GPU systems (GLARE), and the other on syntax-aware detection of training data contamination in code LLMs.
 - [May 2026] We are glad to have contributed a chapter on lightweight ABFT to the recently published book, Machine Learning Systems: The Role of Hardware Design for Dependable Computing.
 - [Mar 2026] Our recent work on modeling the correlation between chiplet redundancy and cost is accepted by TCAD'26.
 - [Feb 2026] Our recent work on fault-tolerant LLM inference algorithm is accepted by DAC'26.
