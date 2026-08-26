@@ -22,6 +22,7 @@ I am looking for self-motivated master/intern students interested in code agents
 - Code agents for embedded systems
 
 ## News
+- [Aug 2026] I was awarded my second NSFC General Program (面上项目) grant for the project "Fault-Tolerant Chip Design Methodology Under the Approximate Computing Paradigm" (2027-2030).
 - [Aug 2026] Our two papers are accepted by EMNLP'26: one on repository-level code optimization agents for heterogeneous CPU-GPU systems (GLARE), and the other on syntax-aware detection of training data contamination in code LLMs.
 - [May 2026] We are glad to have contributed a chapter on lightweight ABFT to the recently published book, Machine Learning Systems: The Role of Hardware Design for Dependable Computing.
 - [Mar 2026] Our recent work on modeling the correlation between chiplet redundancy and cost is accepted by TCAD'26.
@@ -48,6 +49,7 @@ I am looking for self-motivated master/intern students interested in code agents
 - [Jun 2020] Shengwen Liang and Rick Lee won the Third Prize (FPGA Track) of the 2020 IEEE Low-Power Computer Vision Challenge (LPCVC).
 
 ## Fundings
+- Fault-Tolerant Chip Design Methodology Under the Approximate Computing Paradigm, 550 000￥, NSFC(2027-2030)
 - HW/SW platform for intelligent cross-layer design and optimization of processors, 11 000 000￥, xdb(2024-2028)
 - Natural weather disturbed image generation for remote sensing, 500 000￥, XXX(2023-2024)
 - AI assisted DSA design automation, 300 000￥, SKLP(2023-2024)
