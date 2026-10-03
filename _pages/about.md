@@ -22,6 +22,7 @@ I am looking for self-motivated master/intern students interested in code agents
 - Code agents for embedded systems
 
 ## News
+- [Oct 2026] Our paper "Analysis of LLM Vulnerability to GPU Soft Errors: An Instruction-Level Fault Injection Study" is formally accepted by IEEE TCAD'26.
 - [Aug 2026] I was awarded my second NSFC General Program grant for the project "Fault-Tolerant Chip Design Methodology Under the Approximate Computing Paradigm" (2027-2030).
 - [Aug 2026] Our two papers are accepted by EMNLP'26: one on repository-level code optimization agents for heterogeneous CPU-GPU systems (GLARE), and the other on syntax-aware detection of training data contamination in code LLMs.
 - [May 2026] We are glad to have contributed a chapter on lightweight ABFT to the recently published book, Machine Learning Systems: The Role of Hardware Design for Dependable Computing.
