@@ -67,12 +67,23 @@ def parse_fields(body):
 
 
 def clean(text):
-    text = re.sub(r'[{}]', '', text)
-    text = re.sub(r'\\[a-zA-Z]+', '', text)
-    text = text.replace('~', ' ')
-    text = re.sub(r'\s+', ' ', text).strip()
-    text = text.replace('_', r'\_').replace('*', r'\*')
-    return text
+    t = text
+    t = t.replace(r'\{', '').replace(r'\}', '')
+    t = re.sub(r'\\[a-zA-Z]+\s*', '', t)
+    t = re.sub(r'\\([&%#_$^])', r'\1', t)
+    t = t.replace('$', '')
+    t = re.sub(r'[{}]', '', t)
+    t = t.replace('~', ' ')
+    t = t.replace('--', '–')
+    t = re.sub(r'\s+', ' ', t).strip()
+    t = t.replace('_', r'\_').replace('*', r'\*')
+    return t
+
+
+# bib 里信息卡写得不好看的个别条目，直接人工定稿
+TITLE_OVERRIDES = {
+    'he2023s': 'S²Loop: A Lightweight Spectral-Spatio Loop Closure Detector for Resource-Constrained Platforms',
+}
 
 
 def fmt_authors(raw):
@@ -98,7 +109,7 @@ def main():
     for typ, key, body in split_entries(text):
         f = parse_fields(body)
         year = f.get('year', '').strip()
-        title = clean(f.get('title', '(no title)'))
+        title = TITLE_OVERRIDES.get(key) or clean(f.get('title', '(no title)'))
         venue = clean(f.get('booktitle') or f.get('journal') or '')
         authors = fmt_authors(f.get('author', ''))
         ranking = clean(f.get('ranking', ''))
