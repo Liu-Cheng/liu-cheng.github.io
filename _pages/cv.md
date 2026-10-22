@@ -60,12 +60,6 @@ My research focuses on reconfigurable and reliable architectures for AI computin
 
 See the [Publications](/publications/) page for the complete list.
 
-## Teaching & Supervision
-
-- Supervised 3 Ph.D. and 5 M.S. students to graduation (recent two years)
-- Student first-author papers: 18, including 8 CCF-A venues (HPCA, SC, ICDE, TCAD, etc.)
-- Student competition awards: 2nd place DAC 2023 System Design Contest, 3rd place DAC 2022, 3rd place PPoPP 2025 FastCode Challenge (BFS track), 3rd place LPCVC 2020 FPGA track
-
 ## Contact
 
 School of Control and Computer Engineering, North China Electric Power University
