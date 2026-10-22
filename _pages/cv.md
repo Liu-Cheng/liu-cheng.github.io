@@ -39,7 +39,7 @@ My research focuses on reconfigurable and reliable architectures for AI computin
 
 **As Principal Investigator**
 
-- Fault-Tolerant Chip Design under the Approximate Computing Paradigm — NSFC General Program, ¥606,000, *2027 – 2030*
+- Fault-Tolerant Chip Design under the Approximate Computing Paradigm — NSFC General Program, ¥550,000, *2027 – 2030*
 - Cross-Layer Processor Optimization Infrastructures — CAS Strategic Priority Program (Class B), ¥10,740,000, *2024 – 2028*
 - Representation and Application of Multimodal IC Data — CAS Computing Power Program, ¥710,000, *2025 – 2026*
 - Reliability Evaluation of Remote Sensing Systems — CASC, ¥500,000, *2024*
