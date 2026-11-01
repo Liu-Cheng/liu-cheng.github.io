@@ -11,7 +11,11 @@ redirect_from:
 
 ## Short Bio
 I am a Full Professor at the School of Control and Computer Engineering, North China Electric Power University. Prior to this, I was an Associate Professor at the State Key Laboratory of Processors (SKLP), Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS) from 2018 to 2026. Before joining ICT, I was a Research Fellow at the National University of Singapore from 2016 to 2018. I received my Ph.D. from The University of Hong Kong in 2016, under the supervision of Prof. Hayden K. H. So. I obtained my B.Eng. and M.Eng. degrees from Harbin Institute of Technology.
-My research interests lie in LLM for chip design and code generation agents for hardware and systems.
+My research interests lie in:
+
+- Fault-tolerant AI chips and systems
+- LLM for chip design
+- Code generation agents for hardware and systems
 
 
 ## Vacancies
